@@ -1,8 +1,6 @@
 # blog-elk
 Repositório destinado a conter projeto de estudo voltado para elastic stack
 
-Claro, vamos detalhar ainda mais cada etapa do projeto para garantir que você tenha tudo que precisa para começar. Vou incluir exemplos de código, explicações detalhadas e boas práticas a seguir.
-
 ### Etapa 1: Planejamento e Configuração Inicial
 **1. Definir Requisitos:**
 - Funcionalidades principais: Criação, edição e visualização de posts.
